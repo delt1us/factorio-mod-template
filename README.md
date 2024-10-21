@@ -1,3 +1,2 @@
 # factorio-mod-template
-
-Add anything here
+A template mod with required boilerplate for basic Factorio mods. Feel free to use to save a little time.
